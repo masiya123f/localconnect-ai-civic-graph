@@ -247,7 +247,4 @@ We stand on the shoulders of giants. Special thanks to the Apache Foundation, CN
 We are committed to fostering a welcoming community. Please read our Code of Conduct before participating.
 
 
-✨ "We're not just building technology. We're building trust."
-
-Last updated: January 2026
-Version: 0.1.0-alpha
+✨ "We're not just building technology. We're building trust.
